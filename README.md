@@ -5,4 +5,4 @@ It is a beginner-friendly project which aims to make registration forms easier f
 
 ### For Contributions
 Currently, the app uses Firebase as a database and authenticator. If you want to contribute to this project, fork this repository and send an initial pull request with your Google Account email in the Pull Request's description. Within 36hrs, we will add you as a collaborator to the Firebase project. 
-And you are ready to go! Work your magic and make something incredible.
+And you are ready to go! Work your magic and make something incredible..
